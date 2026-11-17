@@ -91,6 +91,9 @@ The window shows armed state, mode, roll, pitch, yaw, depth, and battery voltage
 
 Claude assisted with the initial architecture, code generation, and unit tests. My focus was on understanding the problem and implementation, making the modifications listed above, and validating the resulting application, rather than treating the generated code as a black box.
 
+## video demo:
+https://drive.google.com/file/d/1Y44lX4jjiV96RgfjmJN77DkNw7-z1lkt/view?usp=drive_link
+
 ## Known limitations/ideas
 
 * Keyboard only (no joystick); Qt 6 has no built-in gamepad module, so this would need another library.  
